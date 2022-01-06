@@ -10,10 +10,13 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
-# /Assets/PolygonStarter/
+# Some temp folders
 /Assets/Standard Assets/
 /Assets/TutorialInfo/
 /Assets/SampleScenes/
+SampleScenes.meta
+Standard Assets.meta
+TutorialInfo.meta
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
